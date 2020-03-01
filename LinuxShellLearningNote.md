@@ -15,6 +15,11 @@
                   j*****g@Jenny****** Down % whereis java               
                   /usr/bin/java
               ```
+            - ```bash
+                  j*****g@Jenny****** Down % which java               
+                  /usr/bin/java
+              ```
+            
          2. 列出详细信息
             - ```bash
                   j*****g@Jenny****** Down % ls -l /usr/bin/ |grep java
